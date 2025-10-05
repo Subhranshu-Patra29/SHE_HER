@@ -1,0 +1,1 @@
+web: gunicorn pickup_lines_app.wsgi
